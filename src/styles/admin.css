@@ -1,0 +1,548 @@
+/* menu login */
+.login {
+  background: url(../assets/images/bg2.png);
+  background-size: cover;
+  height: auto;
+  margin: 30px 100px 30px 120px ;
+}
+
+.log{
+  text-align: center;
+  color: #0957DE;
+  font-size: 35px;
+  font-family: url(../../font/Poppins-Bold.ttf);
+  padding-bottom: 10px;
+}
+
+/* admin-nav */
+.h1Header{
+color: white;
+font-weight: bold;
+font-size: 1.5em;
+}
+.hsatu{
+display: inline;
+color: white;
+text-align: right;
+padding-right: 20px;
+}
+
+/* admin home */
+.head{
+  width: 1300px;
+}
+
+.titleHome{
+font-size: 2.3vw;
+font-weight: 500;
+color: #0957DE;
+text-shadow: 1px 3px 3px rgba(124, 124, 124, 0.5);
+margin: 10px;
+width: 650px;
+}
+
+.date{
+font-size: 1.5vw;
+color: black;
+margin-top: 15px;
+font-weight: 500;
+margin-right: 10px;
+text-align: right;
+}
+
+.cont{
+  width: 1000px;
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+
+.card-title{
+font-weight: bold;
+font-size: 1.5vw;
+}
+.card-text{
+font-weight: bold;
+font-size: 1vw;
+}
+.btnHome{
+background-color: #0957DE;
+margin: auto;
+width: 70%;
+height: auto;
+font-size: 1.2vw;
+font-weight: bold;
+padding: 17px;
+box-shadow: 1px 3px 3px rgba(124, 124, 124, 0.7);
+}
+.btnHome:hover {
+background-color: white;
+color: #0957DE;
+}
+.btn1{
+background-color: rgb(0, 202, 202);
+border-color: rgb(0, 202, 202);
+margin: auto;
+width: 70%;
+height: auto;
+font-size: 1.2vw;
+font-weight: bold;
+padding: 17px;
+box-shadow: 1px 3px 3px rgba(124, 124, 124, 0.7);
+}
+.btn1:hover {
+background-color: white;
+border-color: rgb(0, 202, 202);
+color: rgb(0, 202, 202);
+}
+
+.pageHome{
+  background-color: whitesmoke;
+  height: auto;
+}
+.banner{
+max-height: 500px;
+}
+
+.center{
+padding-top: 60px;;
+text-align: center;
+}
+
+.nv{
+display: inline-block;
+padding-right: 0px;
+}
+.pageDataDokter{
+background-color: whitesmoke;
+height: 100vh;
+}
+
+.btnDataDokter{
+background-color: #0957DE;
+border-radius: 5px;
+color: white;
+font-size: 1em;
+font-weight: bold;
+margin-bottom: 10px;
+}
+.btnDataDokter:hover {
+background-color: white;
+color: #0957DE;
+border-color: #0957DE;
+}
+
+.btn2{
+background-color: rgb(165, 165, 165);
+float: right;
+}
+.btn2:hover{
+background-color: white;
+border-color: rgb(165, 165, 165);
+color: rgb(165, 165, 165);
+}
+
+.bold{
+font-weight: bold;
+}
+
+.btnModal{
+padding: 5px 30px;
+}
+
+.cardDataDokter{
+margin: auto;
+width: 1500px;
+border: none;
+border-radius: 15px;
+box-shadow: 1px 3px 3px rgba(124, 124, 124, 0.5);
+}
+.content{
+margin: auto;
+margin-top: 50px;
+width: 650px;
+border: none;
+border-radius: 15px;
+background-color: whitesmoke;
+}
+.text{
+color: #0957DE;
+display: block;
+font-size: small;
+margin-top: -5px;
+}
+.cardDo1{
+margin: auto;
+padding: 10px 20px;
+width: 400px;
+height: 130px;
+border: none;
+border-radius: 15px;
+box-shadow: 1px 3px 3px rgba(124, 124, 124, 0.5);
+}
+.btnpad{
+padding: 10px 40px;
+}
+
+/* detail dokter */
+.pageJadwalPraktik{
+background-color: whitesmoke;
+}
+
+.containerJadwalPraktik a {
+text-decoration: none;
+color: grey;
+}
+.containerJadwalPraktik a:hover{
+color: black;
+}
+.cardJadwalPraktik{
+margin: auto;
+width: 1500px;
+border: none;
+border-radius: 15px;
+box-shadow: 1px 3px 3px rgba(124, 124, 124, 0.5);
+}
+.cardf{
+width: 300px;
+margin: 50px auto;
+}
+.uk{
+margin: 50px;
+width: 300px;
+}
+.hw{
+color: #0957DE;
+}
+.hw1{
+color: #9B9B9B;
+}
+.hw2{
+color: #C4C3C3;
+}
+.category{
+background-color: #09C2DE;
+color: white;
+width: 50%;
+margin: auto;
+border-radius: 20px 20px 20px 20px;
+padding: 7px;
+}
+.km, .km2{
+font-size: 20px;
+background-color: #09C2DE;
+color: white;
+font-weight: bold;
+width: 100%;
+margin: 0;
+padding: 10px 0;
+}
+.c1{
+font-size: x-large;
+margin-left: 60px;
+}
+.tab1{
+margin: 0 10px;
+}
+.tabq{
+color: black;
+}
+.km2{
+background-color: #0957DE;
+}
+
+/* data poliklinik */
+.card2{
+margin: auto;
+padding: 10px 20px;
+width: 400px;
+height: 130px;
+border: none;
+border-radius: 15px;
+box-shadow: 1px 3px 3px rgba(124, 124, 124, 0.5);
+text-align: left;
+}
+.prog{
+background-color: #FF795C;
+color: white;
+font-size: 12px;
+margin: auto;
+border-radius: 20px 20px 20px 20px;
+padding: 3px 0;
+}
+.prog3{
+background-color: #FF9D00;
+}
+.prog1{
+background-color: red;
+}
+.prog2{
+background-color: #41E2EB
+;
+}
+.sed{
+background-color: #09C2DE;
+font-size: 15px;
+color: white;
+margin: auto;
+border-radius: 10px;
+padding: 3px;
+}
+.sed1{
+background-color: #0957DE;
+font-weight: bold;
+padding: 2px 30px;
+}
+.sed2{
+  background-color: #FF795C;
+  font-weight: bold;
+  padding: 2px 30px;
+}
+.ad{
+display: flex;
+}
+.left{
+margin-right: 2px;
+}
+.clr{
+background-color: #9BC9FB;
+color: black;
+}
+.wt{
+background-color: white;
+color: black;
+}
+.kan{
+color: #4186EB;
+
+}
+.kir{
+color: #C4C3C3;
+}
+.ho{
+margin-top: 7px;
+color: #C4C3C3;
+}
+.ho1{
+margin-top: 13px;
+}
+/* data pasien */
+.containerDataPasien a {
+text-decoration: none;
+color: grey;
+}
+.containerDataPasien a:hover{
+color: black;
+}
+.pageDataPasien{
+background-color: whitesmoke;
+height: 100vh;
+}
+.cardDetailPasien{
+margin: auto;
+width: 1500px;
+border: none;
+border-radius: 15px;
+box-shadow: 1px 3px 3px rgba(124, 124, 124, 0.5);
+}
+.ma{
+margin-left: 0;
+width: 300px;
+}
+.sd{
+width: 170px;
+}
+.sd1{
+background-color: #C4C3C3;
+}
+.sd3{
+color: #C4C3C3;
+}
+.ta{
+margin-right: 10px;
+font-weight: bold;
+}
+.sub{
+height: 50px;
+font-weight: bold;
+}
+
+/* daftar berhasil */
+
+.alldb{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.cont2{
+margin-top: 100px;
+}
+.cd2{
+max-height: 1000px;
+height: 400px;
+width: 50%;
+background-color: rgba(213, 224, 254, 0.3);
+border-color: transparent;
+margin: auto;
+border-radius: 10%;
+color: #0957DE;
+}
+
+.pag {
+width: 100%;
+height: 100vh;
+background-image: url("../assets/images/bgdaftar.png");
+background-size: cover;
+display: flex;
+}
+.ct2{
+margin: auto;
+font-weight: bold;
+font-size: 2em;
+}
+#smile {
+position:absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+animation: fill 0.5s ease forwards 2.5s;
+}
+#smile path:nth-child(1){
+stroke-dasharray: 606; /* space */
+stroke-dashoffset: 606; /* position */
+animation: line-animation 7s ease forwards;
+}
+@keyframes line-animation {
+to {
+    stroke-dashoffset: 0;
+}
+}
+@keyFrames fill {
+from {
+    fill: transparent;
+    border-radius: 50%;
+}
+to {
+    fill: #09C2DE;
+    background-color: white;
+    border-radius: 50%;
+}
+}
+
+.cek1 {
+margin-top: 250px;
+color: #0957DE;
+text-decoration: underline;
+cursor:context-menu
+}
+
+.fade-in {
+opacity: 1;
+animation-name: fadeInOpacity;
+animation-iteration-count: 1;
+animation-timing-function: ease-in;
+animation-duration: 2s;
+}
+
+@keyframes fadeInOpacity {
+0% {
+  opacity: 0;
+}
+100% {
+  opacity: 1;
+}
+}
+
+/* kartu antrian */
+.pageAntrian{
+background-image: url("../assets/images/bgantrian.png");
+height: 100%;
+background-size: cover;
+display: flex;
+margin: 0px;
+}
+.cont9{
+  margin-top: 15px;
+  margin-bottom: 80px;
+  width: 450px;
+}
+.t9{
+color: #0957DE;
+font-size: 28px;
+}
+.cardAntrian{
+border: none;
+border-radius: 10px;
+}
+.cardTA{
+  background-color: #70a4fd;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px 10px 0 0;
+}
+.content9{
+  border-style: groove;
+  border-color: #0957DE;
+  border-width: thin;
+  border-radius: 5px;
+  margin: 0;
+  margin-top: 0;
+}
+.idl{
+font-size: 28px;
+color: black;
+}
+.idl1{
+color: black;
+font-weight: bold;
+font-size: 15px;
+}
+.idl2{
+color: black;
+font-size: 12px;
+}
+.idl3{
+color: black;
+font-weight: bold;
+font-size: 18px;
+}
+.idl4{
+color: black;
+font-weight: bold;
+font-size: 15px;
+}
+.content8{
+border-style: groove;
+border-color: #0957DE;
+border-width: thin;
+border-radius: 5px;
+width: 180px;
+margin: 15px 8px 0px 15px;
+padding: 0;
+}
+.btn9{
+background-color: #70a4fd;
+color: white;
+font-weight: bold;
+width: 160px;
+}
+.btn9:hover{
+background-color: white;
+border-color: #70a4fd;
+color: #70a4fd;
+font-weight: bold;
+}
+.btn7{
+background-color: rgb(0, 202, 202);
+color: white;
+font-weight: bold;
+width: 160px;
+}
+.btn7:hover{
+background-color: white;
+border-color: rgb(0, 202, 202);
+color: rgb(0, 202, 202);
+font-weight: bold;
+}
+
